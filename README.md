@@ -1,10 +1,11 @@
 # aws-python-pulumi
 
-    pulumi up
+`pulumi up`
 
 # Install Pulumi
 
 ## Prerequisite
 - Chocolatey
 
-    choco install pulumi
+
+`choco install pulumi`
